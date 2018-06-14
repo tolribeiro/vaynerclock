@@ -6,7 +6,7 @@ Countdown timer (24-hour format) that only considers hours left until bedtime.
 ### Why?
 One day while going through Instagram I saw a video from [Gary Vaynerchuk](https://en.wikipedia.org/wiki/Gary_Vaynerchuk) talking about the fact that people always complain that they don't have enough hours during the day.
 
-The message of this short [video](https://www.youtube.com/watch?v=5qW5EfW27AE) got stuck in my head. It sounds so obvious but well...we do not have 24 hours during the day, since roughly 1/3 of that has to be subtracted from the time we spend sleeping. If you sleep 6 hours a day, you end up with the magic number: 18.
+The message of this short [video](https://www.youtube.com/watch?v=edMfu5IILSI) got stuck in my head. It sounds so obvious but well...we do not have 24 hours during the day, since roughly 1/3 of that has to be subtracted from the time we spend sleeping. If you sleep 6 hours a day, you end up with the magic number: 18.
 
 ### What does this little thing do?
 
